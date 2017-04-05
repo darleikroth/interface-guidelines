@@ -28,3 +28,5 @@ HDPI | 480x800px | 800x480px
 XHDPI | 720px1280px | 1280x720px
 XXHDPI | 960px1600px | 1600x960px
 XXXHDPI | 1280px1920px | 1920x1280px
+
+[Back top](#interface-guidelines)
